@@ -4,7 +4,7 @@ license="${mod_license}"
 [[mods]]
 modId="simple_updates_checker"
 issueTrackerURL="https://github.com/beecupbe/simple_updates_checker/issues"
-displayURL="https://www.curseforge.com/minecraft/mc-mods/crazyae"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/simple-updates-checker"
 version="${mod_version}"
 displayName="${mod_name}"
 authors="${mod_authors}"
